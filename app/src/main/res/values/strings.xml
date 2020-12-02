@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Pet</string>
+    <string name="open">Mở</string>
+    <string name="close">Đóng</string>
+    <string name="facebook_app_id">595671874520852</string>
+    <string name="fb_login_protocol_scheme">fb595671874520852</string>
+    <string name="google_plus_client">932428699580-1a4v6o7aghpit3ddgh1qf5faivddavkb.apps.googleusercontent.com</string>
+</resources>
